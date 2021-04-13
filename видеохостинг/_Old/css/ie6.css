@@ -1,0 +1,5 @@
+#navigation ul li span.arrow { bottom: -13px; }
+#slider-holder .slider ul li .slider-cnt h2 { background-image: none;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-cnt-bg.png', sizingMethod='scale'); }
+#navigation ul li.active span.arrow { background-image: none;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/btn-arrow.png', sizingMethod='image'); }
